@@ -1,4 +1,4 @@
-Made before I understood how to make resolution work properly. I could fix it but its more to leave as is.
+Made before I understood how to make resolution work properly. I could fix it but its more fun to leave as is.
 
 playable at https://thundersth.github.io/simple_space_game/
 music by https://pixabay.com/music/video-games-game-gaming-minecraft-background-music-377647/
