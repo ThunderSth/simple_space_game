@@ -1,5 +1,7 @@
 A simple game about shooting down alien spaceships 
 
+Playable at https://thundersth.github.io/simple_space_game/
+
 Controls: A/D or left/right arrow for movement. Enter for shoot. There is also support for touchscreen (although a bit scuffed) and controller (left jostick to move, A to shoot)
 
 Music by https://pixabay.com/music/video-games-game-gaming-minecraft-background-music-377647/
