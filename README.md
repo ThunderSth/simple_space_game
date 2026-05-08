@@ -1,6 +1,9 @@
-Made before I understood how to make resolution work properly. I could fix it but its more to leave as is.
+A simple game about shooting down alien spaceships 
 
-playable at https://thundersth.github.io/simple_space_game/
-music by https://pixabay.com/music/video-games-game-gaming-minecraft-background-music-377647/
-art by me 
-rest of the game also by me
+Controls: A/D or left/right arrow for movement. Enter for shoot. There is also support for touchscreen (although a bit scuffed) and controller (left jostick to move, A to shoot)
+
+Music by https://pixabay.com/music/video-games-game-gaming-minecraft-background-music-377647/
+Art by me 
+Rest of the game also by me
+
+Next game of the year?
